@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Video Blog Platform
 
 This is a video blogging website where users can upload, watch, like, comment, and interact with videos. The platform features a robust authentication system, allowing users to manage their content and engage with others. Built using ReactJS, Redux Toolkit, Tailwind CSS, and Firebase, this project demonstrates a modern approach to web application development.
@@ -27,3 +28,13 @@ This is a video blogging website where users can upload, watch, like, comment, a
 ## Contributing
 
 If you'd like to contribute to this project, please fork the repository and create a pull request with your changes. Contributions are welcome!
+=======
+# React + Vite
+
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+>>>>>>> 68fc2c9 (complete cute blog website)
